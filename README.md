@@ -1,2 +1,1 @@
-# rack-bookmanagement
-Final Project - Semester 1
+# Rack - Book Management
